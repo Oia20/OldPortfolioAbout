@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // Add for deploy. remove for dev...
-  base: "/PortfolioAbout",
+  base: "/OldPortfolioAbout",
 })
